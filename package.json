@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "FrontEnd Example 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyScorp/FrontEnd-Example-2.git"
+  },
+  "keywords": [
+    "FrontEnd",
+    "Example",
+    "2"
+  ],
+  "author": "Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyScorp/FrontEnd-Example-2/issues"
+  },
+  "homepage": "https://github.com/AndyScorp/FrontEnd-Example-2#readme"
+}
