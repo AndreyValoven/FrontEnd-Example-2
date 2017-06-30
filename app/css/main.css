@@ -1106,6 +1106,20 @@ footer {
     margin: 20px 20%;
     width: 60%; } }
 
+@media screen and (max-width: 500px) {
+  .content .info {
+    width: 80%;
+    margin: 20px 10%; }
+  .text, .enter-form {
+    float: none;
+    text-align: center;
+    width: 90%;
+    margin: 20px 10%;
+    padding: 20px; }
+    .text .projects--box, .enter-form .projects--box {
+      width: 90%;
+      margin: 20px 5%; } }
+
 .footer {
   padding: 25px 0;
   margin: 0 -2.2%; }
@@ -1198,9 +1212,9 @@ footer {
 @media screen and (max-width: 720px) {
   .mob-icon {
     cursor: pointer; }
-  .navbar-mob {
+  .navbar {
     margin-top: 2%; }
-    .navbar-mob li {
+    .navbar li {
       width: 100%;
       padding: 3px 0;
       display: block;
@@ -1209,10 +1223,10 @@ footer {
       text-align: center;
       font-size: 2em;
       background-color: #EAEAEA; }
-      .navbar-mob li:first-child {
+      .navbar li:first-child {
         border-top: 1px solid black; }
-      .navbar-mob li:hover {
+      .navbar li:hover {
         background-color: white;
         color: #FF5E30; }
-    .navbar-mob ul {
+    .navbar ul {
       width: 100%; } }
